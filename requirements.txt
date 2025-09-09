@@ -1,0 +1,14 @@
+# Core dependencies
+pillow>=9.0.0
+
+# For auto-labelling with Gemini
+google-generativeai>=0.3.0
+
+# Optional dependencies
+# Uncomment the following line if you want to use Label Studio for manual review
+# label-studio>=1.7.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
